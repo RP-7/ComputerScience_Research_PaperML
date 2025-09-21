@@ -1,2 +1,2 @@
 # ComputerScience_Research_PaperML
-IBDP Extended Essay research paper on Machine Learning Research Question : Comparing SVM algorithm and K-Nearest Neighbor algorithm in stock price prediction
+Research Question : To what extent can the efficiency of Support Vector Regression and Random Forest Regression be compared for predictive accuracy and computational complexity when predicting currency value based on gold price?
